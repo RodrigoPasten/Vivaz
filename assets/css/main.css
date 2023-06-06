@@ -2510,7 +2510,7 @@ button:active,
 		top: 0;
 		width: 275px;
 		z-index: 10005;
-		width: 300px;
+		width: 260px;
 		background: #1a1919 url("images/ovarlay.png");
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(8, 8, 8, 0.125);
 	}
